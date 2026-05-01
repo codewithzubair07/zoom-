@@ -275,7 +275,7 @@ export default function SchoolHomepage() {
           </button>
 
           {/* Pagination dots */}
-          <div className="absolute bottom-4 left-1/3 -translate-x-1/2 flex gap-2">
+          <div className="absolute bottom-4 left-1/2 -translate-x-1/2 flex gap-2">
             <div className="w-3 h-3 rounded-full bg-[#1a56db]" />
             <div className="w-3 h-3 rounded-full bg-white/50" />
             <div className="w-3 h-3 rounded-full bg-white/50" />
